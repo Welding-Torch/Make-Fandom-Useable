@@ -1,5 +1,14 @@
 # Make-Fandom-Useable
-My Ublock Origin Filters for making Fandom.com useable 
+My Ublock Origin Filters for making Fandom.com useable.  
+
+![image](https://github.com/Welding-Torch/Make-Fandom-Useable/assets/46340124/24505e16-576a-4e24-a8b9-d47d7e7a9f21)  
+*https://www.fandom.com/*
+
+This code blocks a lot of the terrible UI elements on Fandom.com, thus making browsing the website a far more pleasureable experience.
+
+### Instructions
+
+Add this to your Ublock Origin Filters list by clicking on the Ublock extension icon, then selecting Dashboard->My filters, and then copy-pasting the below text into your filters.
 
 ```
 ! I use https://letsblock.it/filters/fandom-cleanup
