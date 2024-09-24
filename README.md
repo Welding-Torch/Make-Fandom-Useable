@@ -41,3 +41,9 @@ fandom.com##.feed__wiki-recent-changes--condensed.wiki-recent-changes
 fandom.com##.sticky-toc-toggle.page-side-tool
 fandom.com##.content-size-toggle.page-side-tool
 ```
+# Example
+Without Make-Fandom-Useable
+![image](https://github.com/user-attachments/assets/eea14454-d30e-4784-ba72-ed4bc6e8edf7)
+
+With Make-Fandom Useable
+![image](https://github.com/user-attachments/assets/2dd4d7bd-26a4-4d98-8e3a-5b8f766ce06c)
