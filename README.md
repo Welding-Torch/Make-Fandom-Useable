@@ -39,6 +39,7 @@ fandom.com##.post-form-wrapper:style(position: static !important)
 fandom.com##.feed__wiki-recent-changes--condensed.wiki-recent-changes
 fandom.com##.sticky-toc-toggle.page-side-tool
 fandom.com##.content-size-toggle.page-side-tool
+fandom.com##.global-explore-navigation
 ```
 # About
 Fandom (formerly known as Wikia) contains over **45 million pages** of rich text, images, and videos. All this information is difficult to access because of the horrendous UI/UX catastrophe which is Fandom.com. These filters intend to fix that problem by removing all the junk and leaving you with nice, clean pages of information. Like a wiki page should be.
